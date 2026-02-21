@@ -1,6 +1,6 @@
 [project]
 name = "kpaper"
-version = "0.1.9"
+version = "0.1.21"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
