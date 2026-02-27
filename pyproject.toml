@@ -1,13 +1,15 @@
 [project]
 name = "kpaper"
-version = "0.1.21"
-description = "Add your description here"
+version = "0.1.29"
+description = "a tool to create python projects associated with scientific papers."
 readme = "README.md"
 authors = [
   { name="Keyan Gootkin", email="keyangootkin@gmail.com" },
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "kbasic>=0.1.18",
+]
 [build-system]
 requires = ["uv_build>=0.10.2,<0.11.0"]
 build-backend = "uv_build"
