@@ -1,7 +1,22 @@
-title = ""
+# KPaper v.0.1.29 Configuration File
+document_class = ['twocolumn', 'aastex7']
+title = ''
+shorttitle = ''
+shortauthors = ''
+abstract = ''
+keywords = []
+bibliography = 
 
 [authors]
-names = [
-    "Keyan Gootkin",
-    "Colby Haggerty",
-]
+names = ['Keyan Gootkin']
+orcids = ['0000-0003-0922-138X']
+emails = ['gootkin@hawaii.edu']
+affiliations = ['Institute for Astronomy, University of Hawaii, Manoa, 2680 Woodlawn Dr., Honolulu, HI 96822, USA']
+corresponding = 0
+
+[editorial]
+received = ''
+revised = ''
+accepted = ''
+published = ''
+submitjournal = ''
